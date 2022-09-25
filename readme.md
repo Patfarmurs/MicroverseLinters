@@ -2,9 +2,8 @@
 
 # Project Name
 Hello Microverse
-> Description the project.
+> Description of the project.
 Set up linters
-
 ## Built With
 HTML,CSS
 Vscode
@@ -13,7 +12,6 @@ GitHub
 - Technologies used
 
 To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 Basics html,css and shell command
 ### Setup
